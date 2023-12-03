@@ -6,6 +6,7 @@ public class ManEmulator {
 		methodOne();
 		methodTwo();
 		methodThree();
+		methodFour();
 	}
 	
 	public static  void methodOne() {
@@ -15,10 +16,13 @@ public class ManEmulator {
 	}
 	
 	public static void methodTwo() {
-		System.out.println("hi this is method two");
+		System.out.println("hi this is  method two");
 	}
 	public static void methodThree() {
 		System.out.println("hi this is method three");
+	}
+	public static void methodFour() {
+		System.out.println("hi this is method four");
 	}
 
 }
