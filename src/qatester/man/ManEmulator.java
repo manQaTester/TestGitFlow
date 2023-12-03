@@ -8,6 +8,8 @@ public class ManEmulator {
 	
 	public static  void methodOne() {
 		System.out.println("hi this is method one");
+		System.out.println("hi this is method one");
+		
 	}
 
 }
