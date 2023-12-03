@@ -1,12 +1,13 @@
 package qatester.man;
 
-public class ManEmulator {
+public class Emulator {
 	public static void main(String[] args) {
 		System.out.println("hi man - this is main method");
 		methodOne();
 		methodTwo();
 		methodThree();
 		methodFour();
+		methodFive();
 	}
 	
 	public static  void methodOne() {
@@ -21,6 +22,9 @@ public class ManEmulator {
 	}
 	public static void methodFour() {
 		System.out.println("hi this is method four");
+	}
+	public static void methodFive() {
+		System.out.println("hi this is method five");
 	}
 
 }
